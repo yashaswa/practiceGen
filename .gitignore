@@ -1,0 +1,13 @@
+.env
+.env.*
+
+
+../venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Uploaded or temporary data
+data/uploads/

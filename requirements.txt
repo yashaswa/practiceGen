@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+openai
+faiss-cpu
+PyPDF2
+python-docx
+docx2txt
+tiktoken
+huggingface-hub
